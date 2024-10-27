@@ -6,7 +6,7 @@ import { useEffect, useState } from "react";
 import { useInView } from "react-intersection-observer";
 import AnimeCard from "./AnimeCard";
 
-let page = 2;
+let page = 1;
 
 export type AnimeCard = JSX.Element;
 
